@@ -44,5 +44,5 @@ A comprehensive **Library Management System** built using **PHP** and **MySQL**.
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/Jaishreeram49/Somak-s_Library_Management_System.git
 
